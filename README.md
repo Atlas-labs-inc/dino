@@ -1,2 +1,0 @@
-# dino
-Created with CodeSandbox
